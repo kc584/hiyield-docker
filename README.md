@@ -1,2 +1,2 @@
-# hiyield-docker
+# Hiyield-docker
 Truro college - Hiyield day
