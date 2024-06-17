@@ -1,2 +1,2 @@
 # hiyield-docker
-Truro college - Hiyeild day
+Truro college - Hiyield day
